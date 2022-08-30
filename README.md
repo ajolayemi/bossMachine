@@ -1,4 +1,4 @@
-# Boss Machine
+# Boss Machine - CODECADEMY'S PROJECT
 
 ## Project Overview
 
